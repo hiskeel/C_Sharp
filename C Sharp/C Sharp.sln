@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Sharp", "C Sharp\C Sharp.csproj", "{63C9A6DA-FF25-4674-A028-2789412376FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Start", "1.Start\1.Start.csproj", "{18017638-57E6-4BA3-A160-0267841B050E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C9A6DA-FF25-4674-A028-2789412376FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C9A6DA-FF25-4674-A028-2789412376FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C9A6DA-FF25-4674-A028-2789412376FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C9A6DA-FF25-4674-A028-2789412376FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18017638-57E6-4BA3-A160-0267841B050E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18017638-57E6-4BA3-A160-0267841B050E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18017638-57E6-4BA3-A160-0267841B050E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18017638-57E6-4BA3-A160-0267841B050E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBFE1F10-2C83-4EE8-8BF3-DE7B8284CCE2}
+	EndGlobalSection
+EndGlobal
