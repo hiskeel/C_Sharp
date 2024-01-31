@@ -1,0 +1,15 @@
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\bin\Debug\net7.0\01_Intro_to_CSharp.exe
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\bin\Debug\net7.0\01_Intro_to_CSharp.deps.json
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\bin\Debug\net7.0\01_Intro_to_CSharp.runtimeconfig.json
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\bin\Debug\net7.0\01_Intro_to_CSharp.dll
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\bin\Debug\net7.0\01_Intro_to_CSharp.pdb
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.csproj.AssemblyReference.cache
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.AssemblyInfoInputs.cache
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.AssemblyInfo.cs
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.csproj.CoreCompileInputs.cache
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.dll
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\refint\01_Intro_to_CSharp.dll
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.pdb
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\01_Intro_to_CSharp.genruntimeconfig.cache
+D:\C#\01_Intro_to_CSharp\01_Intro_to_CSharp\obj\Debug\net7.0\ref\01_Intro_to_CSharp.dll

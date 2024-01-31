@@ -1,0 +1,15 @@
+D:\C#\01_Intro_to_CSharp\05_Indexers\bin\Debug\net7.0\05_Indexers.exe
+D:\C#\01_Intro_to_CSharp\05_Indexers\bin\Debug\net7.0\05_Indexers.deps.json
+D:\C#\01_Intro_to_CSharp\05_Indexers\bin\Debug\net7.0\05_Indexers.runtimeconfig.json
+D:\C#\01_Intro_to_CSharp\05_Indexers\bin\Debug\net7.0\05_Indexers.dll
+D:\C#\01_Intro_to_CSharp\05_Indexers\bin\Debug\net7.0\05_Indexers.pdb
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.csproj.AssemblyReference.cache
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.AssemblyInfoInputs.cache
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.AssemblyInfo.cs
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.csproj.CoreCompileInputs.cache
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.dll
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\refint\05_Indexers.dll
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.pdb
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\05_Indexers.genruntimeconfig.cache
+D:\C#\01_Intro_to_CSharp\05_Indexers\obj\Debug\net7.0\ref\05_Indexers.dll

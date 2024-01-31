@@ -1,0 +1,15 @@
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.csproj.AssemblyReference.cache
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.AssemblyInfoInputs.cache
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.AssemblyInfo.cs
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.csproj.CoreCompileInputs.cache
+D:\C#\01_Intro_to_CSharp\14_Dictionary\bin\Debug\net7.0\14_Dictionary.exe
+D:\C#\01_Intro_to_CSharp\14_Dictionary\bin\Debug\net7.0\14_Dictionary.deps.json
+D:\C#\01_Intro_to_CSharp\14_Dictionary\bin\Debug\net7.0\14_Dictionary.runtimeconfig.json
+D:\C#\01_Intro_to_CSharp\14_Dictionary\bin\Debug\net7.0\14_Dictionary.dll
+D:\C#\01_Intro_to_CSharp\14_Dictionary\bin\Debug\net7.0\14_Dictionary.pdb
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.dll
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\refint\14_Dictionary.dll
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.pdb
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\14_Dictionary.genruntimeconfig.cache
+D:\C#\01_Intro_to_CSharp\14_Dictionary\obj\Debug\net7.0\ref\14_Dictionary.dll

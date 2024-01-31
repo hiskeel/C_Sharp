@@ -1,0 +1,15 @@
+D:\C#\01_Intro_to_CSharp\02_String\bin\Debug\net7.0\02_String.exe
+D:\C#\01_Intro_to_CSharp\02_String\bin\Debug\net7.0\02_String.deps.json
+D:\C#\01_Intro_to_CSharp\02_String\bin\Debug\net7.0\02_String.runtimeconfig.json
+D:\C#\01_Intro_to_CSharp\02_String\bin\Debug\net7.0\02_String.dll
+D:\C#\01_Intro_to_CSharp\02_String\bin\Debug\net7.0\02_String.pdb
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.csproj.AssemblyReference.cache
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.AssemblyInfoInputs.cache
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.AssemblyInfo.cs
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.csproj.CoreCompileInputs.cache
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.dll
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\refint\02_String.dll
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.pdb
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\02_String.genruntimeconfig.cache
+D:\C#\01_Intro_to_CSharp\02_String\obj\Debug\net7.0\ref\02_String.dll
